@@ -25,7 +25,7 @@ all_hombres2 <- read.csv("./datos_grafico_recreados.csv",  header=TRUE, sep=";")
 names(all_hombres2)[names(all_hombres2) == "initial.diagnose"] <- " "
 names(all_hombres2)[names(all_hombres2) == "final.diagnose"] <- "  "
 
-p = alluvial_wide(all_hombres2, max_variables = 2,  col_vector_flow = col_vector, col_vector_value = col_vector)
+p = alluvial_wide(all_hombres2, max_variables = 2,    col_vector_flow = col_vector, col_vector_value = col_vector)
 
 parcats(p,  data_input = all_hombres2)
 
