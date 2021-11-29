@@ -1,0 +1,13 @@
+initial,Mood disorder,Anxiety,OCD,Eating disorders,Behavioural problems,ADHD,Autism,Learning disability,Psychosis,Drug abuse,Other,None
+Mood disorder,44,0,0,1,0,4,0,1,1,1,1,15
+Anxiety,6,23,0,0,0,10,1,0,0,1,1,15
+OCD,0,0,1,0,0,0,1,0,0,0,0,3
+Eating disorders,0,1,0,14,0,0,0,0,0,0,0,2
+Behavioural problems,0,0,0,0,3,3,0,0,0,0,0,1
+ADHD,6,7,2,0,2,349,3,2,1,1,0,30
+Autism,0,2,0,0,1,1,45,0,0,0,1,3
+Learning disability,2,2,0,0,2,14,1,9,0,0,0,2
+Psychosis,0,0,0,0,0,0,0,0,1,0,0,0
+Drug use,0,0,0,0,0,0,0,0,0,0,0,1
+Other,0,0,0,0,1,0,0,0,0,0,3,4
+None,2,2,0,0,0,13,2,0,0,0,0,20
