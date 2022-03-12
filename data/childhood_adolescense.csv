@@ -1,0 +1,10 @@
+initial,None,ASD,ADHD,Learning disability,Eating disorder,Mood disorder,Anxiety disorder,Behavioural problems,Other
+None,16,0,2,0,0,1,1,0,0
+ASD,0,20,2,0,0,0,0,1,1
+ADHD,3,4,272,0,0,5,3,3,6
+Learning disability,0,0,4,11,0,0,0,0,1
+Eating disorder,0,0,1,0,4,0,0,1,0
+Mood disorder,2,0,4,0,2,4,1,0,0
+Anxiety disorder,5,0,7,0,0,0,31,0,1
+Behavioural problems,1,0,1,0,0,1,2,2,1
+Other,0,1,2,0,0,2,3,1,7

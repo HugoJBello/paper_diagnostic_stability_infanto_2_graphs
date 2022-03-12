@@ -1,0 +1,444 @@
+initial diagnose;final diagnose;color
+None;None;#a5f291
+None;None;#a5f291
+None;None;#a5f291
+None;None;#a5f291
+None;None;#a5f291
+None;None;#a5f291
+None;None;#a5f291
+None;None;#a5f291
+None;None;#a5f291
+None;None;#a5f291
+None;None;#a5f291
+None;None;#a5f291
+None;None;#a5f291
+None;None;#a5f291
+None;None;#a5f291
+None;None;#a5f291
+None;ADHD;#a5f291
+None;ADHD;#a5f291
+None;Mood disorder;#a5f291
+None;Anxiety disorder;#a5f291
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ASD;#4b38f5
+ASD;ADHD;#4b38f5
+ASD;ADHD;#4b38f5
+ASD;Behavioural problems;#4b38f5
+ASD;Other;#4b38f5
+ADHD;None;#a6a1cf
+ADHD;None;#a6a1cf
+ADHD;None;#a6a1cf
+ADHD;ASD;#a6a1cf
+ADHD;ASD;#a6a1cf
+ADHD;ASD;#a6a1cf
+ADHD;ASD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;ADHD;#a6a1cf
+ADHD;Mood disorder;#a6a1cf
+ADHD;Mood disorder;#a6a1cf
+ADHD;Mood disorder;#a6a1cf
+ADHD;Mood disorder;#a6a1cf
+ADHD;Mood disorder;#a6a1cf
+ADHD;Anxiety disorder;#a6a1cf
+ADHD;Anxiety disorder;#a6a1cf
+ADHD;Anxiety disorder;#a6a1cf
+ADHD;Behavioural problems;#a6a1cf
+ADHD;Behavioural problems;#a6a1cf
+ADHD;Behavioural problems;#a6a1cf
+ADHD;Other;#a6a1cf
+ADHD;Other;#a6a1cf
+ADHD;Other;#a6a1cf
+ADHD;Other;#a6a1cf
+ADHD;Other;#a6a1cf
+ADHD;Other;#a6a1cf
+Learning disability;ADHD;#31d4cc
+Learning disability;ADHD;#31d4cc
+Learning disability;ADHD;#31d4cc
+Learning disability;ADHD;#31d4cc
+Learning disability;Learning disability;#31d4cc
+Learning disability;Learning disability;#31d4cc
+Learning disability;Learning disability;#31d4cc
+Learning disability;Learning disability;#31d4cc
+Learning disability;Learning disability;#31d4cc
+Learning disability;Learning disability;#31d4cc
+Learning disability;Learning disability;#31d4cc
+Learning disability;Learning disability;#31d4cc
+Learning disability;Learning disability;#31d4cc
+Learning disability;Learning disability;#31d4cc
+Learning disability;Learning disability;#31d4cc
+Learning disability;Other;#31d4cc
+Eating disorder;ADHD;#9211cf
+Eating disorder;Eating disorder;#9211cf
+Eating disorder;Eating disorder;#9211cf
+Eating disorder;Eating disorder;#9211cf
+Eating disorder;Eating disorder;#9211cf
+Eating disorder;Behavioural problems;#9211cf
+Mood disorder;None;#10c43a
+Mood disorder;None;#10c43a
+Mood disorder;ADHD;#10c43a
+Mood disorder;ADHD;#10c43a
+Mood disorder;ADHD;#10c43a
+Mood disorder;ADHD;#10c43a
+Mood disorder;Eating disorder;#10c43a
+Mood disorder;Eating disorder;#10c43a
+Mood disorder;Mood disorder;#10c43a
+Mood disorder;Mood disorder;#10c43a
+Mood disorder;Mood disorder;#10c43a
+Mood disorder;Mood disorder;#10c43a
+Mood disorder;Anxiety disorder;#10c43a
+Anxiety disorder;None;#e7eb28
+Anxiety disorder;None;#e7eb28
+Anxiety disorder;None;#e7eb28
+Anxiety disorder;None;#e7eb28
+Anxiety disorder;None;#e7eb28
+Anxiety disorder;ADHD;#e7eb28
+Anxiety disorder;ADHD;#e7eb28
+Anxiety disorder;ADHD;#e7eb28
+Anxiety disorder;ADHD;#e7eb28
+Anxiety disorder;ADHD;#e7eb28
+Anxiety disorder;ADHD;#e7eb28
+Anxiety disorder;ADHD;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Anxiety disorder;#e7eb28
+Anxiety disorder;Other;#e7eb28
+Behavioural problems;None;#e37346
+Behavioural problems;ADHD;#e37346
+Behavioural problems;Mood disorder;#e37346
+Behavioural problems;Anxiety disorder;#e37346
+Behavioural problems;Anxiety disorder;#e37346
+Behavioural problems;Behavioural problems;#e37346
+Behavioural problems;Behavioural problems;#e37346
+Behavioural problems;Other;#e37346
+Other;ASD;#b03200
+Other;ADHD;#b03200
+Other;ADHD;#b03200
+Other;Mood disorder;#b03200
+Other;Mood disorder;#b03200
+Other;Anxiety disorder;#b03200
+Other;Anxiety disorder;#b03200
+Other;Anxiety disorder;#b03200
+Other;Behavioural problems;#b03200
+Other;Other;#b03200
+Other;Other;#b03200
+Other;Other;#b03200
+Other;Other;#b03200
+Other;Other;#b03200
+Other;Other;#b03200
+Other;Other;#b03200
